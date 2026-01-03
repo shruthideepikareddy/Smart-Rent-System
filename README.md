@@ -211,7 +211,7 @@ PORT=8000
 NODE_ENV=development
 
 # Database
-MONGO_URL=mongodb://localhost:27017/smartrent
+MONGODB_URI=mongodb://localhost:27017/smartrent
 
 # Authentication
 JWT_SECRET=your_super_secret_jwt_key_change_in_production
